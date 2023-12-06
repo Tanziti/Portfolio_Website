@@ -636,7 +636,12 @@ input, select, textarea {
 		}
 
 /* Image */
-
+	.icon .solid .fa-compact-disc {
+		animation: spin 2s linear infinite;
+	}
+	#project-pic{
+		height: 250px;
+	}
 	.image {
 		border-radius: 4px;
 		border: 0;
