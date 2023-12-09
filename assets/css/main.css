@@ -640,7 +640,7 @@ input, select, textarea {
 		animation: spin 2s linear infinite;
 	}
 	#project-pic{
-		height: 250px;
+		height: 375px;
 	}
 	.image {
 		border-radius: 4px;
